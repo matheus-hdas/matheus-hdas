@@ -20,7 +20,7 @@
 
 <table style="width: 100%; table-layout: auto;">
   <tr>
-    <td align="left">
+    <td>
       <h3 style="margin: 0; text-align: left;">Languages</h3>
       <div align="left">
         <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
@@ -30,7 +30,7 @@
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
       </div>
     </td>
-    <td align="center">
+    <td>
       <h3 style="margin: 0; text-align: left;">Tools</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
@@ -38,7 +38,7 @@
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
       </div>
     </td>
-    <td align="right">
+    <td>
       <h3 style="margin: 0; text-align: left;">Libraries and Frameworks</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
