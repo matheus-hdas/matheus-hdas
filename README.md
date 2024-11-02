@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java and Node Developer<br>- Able to work with you and your company</p>
+<h5 align="left">- Java and Node Developer<br>- Able to work with you and your company</h5>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">Libraries and Frameworks</h4>
+<h3 align="left">Libraries and Frameworks</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h4 align="left">Tools</h4>
+<h3 align="left">Tools</h3>
 
 ###
 
