@@ -2,7 +2,7 @@
 
 ### 
 
-<h4 align="left">- My name is Matheus Henrique, I am a software developer from MG, Brazil 🇧🇷</h4>
+<b align="left">- My name is Matheus Henrique, I am a software developer from MG, Brazil 🇧🇷</b>
 
 ### 
 
@@ -10,7 +10,7 @@
 
 ### 
 
-<h4 align="left">- Java and Node Developer<br>- Able to work with you and your company</h4>
+<b align="left">- Java and Node Developer<br>- Able to work with you and your company</b>
 
 ### 
 
@@ -25,6 +25,7 @@
       <div align="left">
         <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
         <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+        <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo" />
         <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
         <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
@@ -35,6 +36,7 @@
       <div align="center">
         <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
         <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="github logo" />
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
       </div>
     </td>
