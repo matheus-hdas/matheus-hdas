@@ -23,33 +23,33 @@
     <td>
       <h3 style="margin: 0; text-align: left;">Languages</h3>
       <div align="left">
-        <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
-        <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
-        <img src="https://skillicons.dev/icons?i=ts" height="35" alt="javascript logo" />
-        <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo" />
-        <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo" />
-        <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo" />
+        <img src="https://skillicons.dev/icons?i=java" height="37" alt="java logo" />
+        <img src="https://skillicons.dev/icons?i=js" height="37" alt="javascript logo" />
+        <img src="https://skillicons.dev/icons?i=ts" height="37" alt="typescript logo" />
+        <img src="https://skillicons.dev/icons?i=c" height="37" alt="c logo" />
+        <img src="https://skillicons.dev/icons?i=cpp" height="37" alt="cplusplus logo" />
+        <img src="https://skillicons.dev/icons?i=bash" height="37" alt="bash logo" />
       </div>
     </td>
     <td>
       <h3 style="margin: 0; text-align: left;">Tools</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo" />
-        <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo" />
-        <img src="https://skillicons.dev/icons?i=git" height="35" alt="github logo" />
-        <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
+        <img src="https://skillicons.dev/icons?i=docker" height="37" alt="docker logo" />
+        <img src="https://skillicons.dev/icons?i=aws" height="37" alt="amazonwebservices logo" />
+        <img src="https://skillicons.dev/icons?i=git" height="37" alt="github logo" />
+        <img src="https://skillicons.dev/icons?i=github" height="37" alt="github logo" />
       </div>
     </td>
     <td>
       <h3 style="margin: 0; text-align: left;">Libraries and Frameworks</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo" />
-        <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
-        <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo" />
-        <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
-        <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo" />
-        <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
-        <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
+        <img src="https://skillicons.dev/icons?i=spring" height="37" alt="spring logo" />
+        <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="nodejs logo" />
+        <img src="https://skillicons.dev/icons?i=nextjs" height="37" alt="nextjs logo" />
+        <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo" />
+        <img src="https://skillicons.dev/icons?i=postgres" height="37" alt="postgresql logo" />
+        <img src="https://skillicons.dev/icons?i=mysql" height="37" alt="mysql logo" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="37" alt="mongodb logo" />
       </div>
     </td>
   </tr>
