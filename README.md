@@ -62,8 +62,8 @@
 ### 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-hdas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-hdas&locale=en&hide_title=false&layout=compact&card_width=335&langs_count=10&theme=gruvbox_light&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-hdas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-hdas&locale=en&hide_title=false&layout=compact&card_width=335&langs_count=10&theme=gruvbox_light&hide_border=true&order=2" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-hdas&radius=16&theme=gruvbox&area=true&order=5&hide_title=true" height="310" alt="activity-graph graph"  />
 </div>
 
