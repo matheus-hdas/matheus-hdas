@@ -24,7 +24,7 @@
       <h3 style="margin: 0; text-align: left;">Languages</h3>
       <div align="left">
         <img src="https://skillicons.dev/icons?i=java" height="37" alt="java logo" />
-        <img src="https://skillicons.dev/icons?i=js" height="37" alt="javascript logo" />
+        <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="javascript logo" />
         <img src="https://skillicons.dev/icons?i=ts" height="37" alt="typescript logo" />
         <img src="https://skillicons.dev/icons?i=c" height="37" alt="c logo" />
         <img src="https://skillicons.dev/icons?i=cpp" height="37" alt="cplusplus logo" />
@@ -44,7 +44,6 @@
       <h3 style="margin: 0; text-align: left;">Libraries and Frameworks</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=spring" height="37" alt="spring logo" />
-        <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="nodejs logo" />
         <img src="https://skillicons.dev/icons?i=nextjs" height="37" alt="nextjs logo" />
         <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo" />
         <img src="https://skillicons.dev/icons?i=postgres" height="37" alt="postgresql logo" />
@@ -61,9 +60,9 @@
 
 ### 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-hdas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-hdas&locale=en&hide_title=true&layout=compact&card_width=382&langs_count=10&theme=gruvbox_light&hide_border=true&order=2" height="200" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-hdas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-hdas&locale=en&hide_title=true&layout=compact&card_width=450&langs_count=10&theme=gruvbox_light&hide_border=true&order=2" height="180" alt="languages graph"  />
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-hdas&radius=16&theme=gruvbox&area=true&order=5&hide_title=true" height="292" alt="activity-graph graph"  /> -->
 </div>
 
