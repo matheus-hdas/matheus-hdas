@@ -1,62 +1,64 @@
-<h2 align="left">👋 Hello World, welcome to my GitHub profile</h2>
+<h2 align="center">👋 Hello World, welcome to my GitHub profile</h2>
 
 ### 
 
-<b align="left">- My name is Matheus Henrique, I am a software developer from MG, Brazil 🇧🇷</b>
+<div align="center"><b align="center">My name is Matheus Henrique, I am a software developer from MG, Brazil 🇧🇷</b></div>
 
 ### 
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ### 
 
-<b align="left">- Java and Node Developer<br>- Able to work with you and your company</b>
+<div align="center"><b align="center">Java and Node Developer<br>Able to work with you and your company</b></div>
 
 ### 
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 
 ### 
 
-<table style="width: 100%; table-layout: auto;">
-  <tr>
-    <td>
-      <h3 style="margin: 0; text-align: left;">Languages</h3>
-      <div align="left">
-        <img src="https://skillicons.dev/icons?i=java" height="37" alt="java logo" />
-        <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="javascript logo" />
-        <img src="https://skillicons.dev/icons?i=ts" height="37" alt="typescript logo" />
-        <img src="https://skillicons.dev/icons?i=c" height="37" alt="c logo" />
-        <img src="https://skillicons.dev/icons?i=cpp" height="37" alt="cplusplus logo" />
-        <img src="https://skillicons.dev/icons?i=bash" height="37" alt="bash logo" />
-      </div>
-    </td>
-    <td>
-      <h3 style="margin: 0; text-align: left;">Tools</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=docker" height="37" alt="docker logo" />
-        <img src="https://skillicons.dev/icons?i=aws" height="37" alt="amazonwebservices logo" />
-        <img src="https://skillicons.dev/icons?i=git" height="37" alt="github logo" />
-        <img src="https://skillicons.dev/icons?i=github" height="37" alt="github logo" />
-      </div>
-    </td>
-    <td>
-      <h3 style="margin: 0; text-align: left;">Libraries and Frameworks</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=spring" height="37" alt="spring logo" />
-        <img src="https://skillicons.dev/icons?i=nextjs" height="37" alt="nextjs logo" />
-        <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo" />
-        <img src="https://skillicons.dev/icons?i=postgres" height="37" alt="postgresql logo" />
-        <img src="https://skillicons.dev/icons?i=mysql" height="37" alt="mysql logo" />
-        <img src="https://skillicons.dev/icons?i=mongodb" height="37" alt="mongodb logo" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width: 100%; table-layout: auto;">
+    <tr>
+      <td>
+        <h3 style="margin: 0; text-align: left;">Languages</h3>
+        <div align="left">
+          <img src="https://skillicons.dev/icons?i=java" height="37" alt="java logo" />
+          <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="javascript logo" />
+          <img src="https://skillicons.dev/icons?i=ts" height="37" alt="typescript logo" />
+          <img src="https://skillicons.dev/icons?i=c" height="37" alt="c logo" />
+          <img src="https://skillicons.dev/icons?i=cpp" height="37" alt="cplusplus logo" />
+          <img src="https://skillicons.dev/icons?i=bash" height="37" alt="bash logo" />
+        </div>
+      </td>
+      <td>
+        <h3 style="margin: 0; text-align: left;">Tools</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=docker" height="37" alt="docker logo" />
+          <img src="https://skillicons.dev/icons?i=aws" height="37" alt="amazonwebservices logo" />
+          <img src="https://skillicons.dev/icons?i=git" height="37" alt="github logo" />
+          <img src="https://skillicons.dev/icons?i=github" height="37" alt="github logo" />
+        </div>
+      </td>
+      <td>
+        <h3 style="margin: 0; text-align: left;">Libraries and Frameworks</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=spring" height="37" alt="spring logo" />
+          <img src="https://skillicons.dev/icons?i=nextjs" height="37" alt="nextjs logo" />
+          <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo" />
+          <img src="https://skillicons.dev/icons?i=postgres" height="37" alt="postgresql logo" />
+          <img src="https://skillicons.dev/icons?i=mysql" height="37" alt="mysql logo" />
+          <img src="https://skillicons.dev/icons?i=mongodb" height="37" alt="mongodb logo" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 ### 
 
