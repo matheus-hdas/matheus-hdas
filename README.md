@@ -10,7 +10,7 @@
 
 ### 
 
-<div align="center"><b align="center">Java and Node Developer<br>Able to work with you and your company</b></div>
+<div align="center"><b align="center">Java and Node Developer<br>Working on Google ADS</b></div>
 
 ### 
 
