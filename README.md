@@ -10,7 +10,7 @@
 
 ### 
 
-<div align="center"><b align="center">Java and Node Developer<br>Working at Google, on Google ADS</b></div>
+<div align="center"><b align="center">Java and Node Full Stack Developer</b></div>
 
 ### 
 
